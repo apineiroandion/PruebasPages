@@ -1,5 +1,7 @@
 /**
  * Funciones utilizadas en la calse main
+ * @author Angel Piñeiro
+ * @version v1.0
  */
 public class Funciones {
     /**
